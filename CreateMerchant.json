@@ -1,0 +1,6 @@
+{
+  "name": "Test Merchant",
+  "merchantGroupId": "{{GROUP_ID}}",
+  "address": "123 Test Street",
+  "country": "US"
+}
